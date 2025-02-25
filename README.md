@@ -1,9 +1,11 @@
-📏 Calculadora de IMC
+Calculadora Penal - FiveM
+Este projeto é uma Calculadora De Massa Corporal desenvolvida em Python para calcular a altura e o peso do usuário, com o objetivo simples e eficaz.
 
-📌 Sobre
-Essa é uma Calculadora de IMC (Índice de Massa Corporal) desenvolvida em Python. O programa calcula peso e altura do usuário e retorna a classificação de acordo com a tabela do IMC.
+Funcionalidades
+Cálculo de Massa Corporal com base em dados do usuário.
+Interface intuitiva e fácil de usar.
+Pré-requisitos
+Antes de começar, certifique-se de ter instalado em sua máquina as seguintes ferramentas:
 
-⚙️ Funcionalidades
-✅ Calcula o IMC com base no peso e altura informados.
-✅ Exibe a classificação do IMC conforme a tabela da OMS.
-✅ Interface simples e fácil de usar.
+Git
+Um editor de código, como VSCode
